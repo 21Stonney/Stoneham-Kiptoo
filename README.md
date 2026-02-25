@@ -117,7 +117,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 ### GitHub Activity Tracker
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Stonney&layout=compact&theme=tokyonight&hide=html,css,scss&hide_border=true" 
     width="60%" 
   />
